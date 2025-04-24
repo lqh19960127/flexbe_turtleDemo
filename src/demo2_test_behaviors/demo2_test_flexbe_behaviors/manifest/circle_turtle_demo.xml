@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="circle_turtle_demo">
+
+	<executable package_path="demo2_test_flexbe_behaviors.circle_turtle_demo_sm" class="circle_turtle_demoSM" />
+	<tagstring>turtle</tagstring>
+	<author>liu</author>
+	<date>Wed Apr 23 2025</date>
+	<description>
+		execut task about circle turtle
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+	<params>
+
+		<param type="numeric" name="wait_time" default="2" label="wait_time" hint="Sets the wait_time">
+			<min value="1" />
+			<max value="4" />
+		</param>
+
+	</params>
+
+
+</behavior>

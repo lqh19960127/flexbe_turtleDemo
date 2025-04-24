@@ -1,0 +1,8 @@
+prefix=/home/linuxlqh/fb_test_2/devel
+
+Name: demo2_test_flexbe_states
+Description: Description of demo2_test_flexbe_states
+Version: 1.0.0
+Cflags: -I/home/linuxlqh/fb_test_2/src/demo2_test_behaviors/demo2_test_flexbe_states/src
+Libs: -L${prefix}/lib -ldemo2_test_flexbe_states
+Requires: 

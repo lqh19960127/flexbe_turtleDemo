@@ -1,0 +1,7 @@
+set(demo2_test_flexbe_states_SETUP_PY_SETUP_MODULE "distutils.core")
+set(demo2_test_flexbe_states_SETUP_PY_VERSION "1.0.0")
+set(demo2_test_flexbe_states_SETUP_PY_SCRIPTS "")
+set(demo2_test_flexbe_states_SETUP_PY_PACKAGES "demo2_test_flexbe_states")
+set(demo2_test_flexbe_states_SETUP_PY_PACKAGE_DIRS "src/demo2_test_flexbe_states")
+set(demo2_test_flexbe_states_SETUP_PY_MODULES "")
+set(demo2_test_flexbe_states_SETUP_PY_MODULE_DIRS "")

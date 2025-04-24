@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="testdemo">
+
+	<executable package_path="demo2_test_flexbe_behaviors.testdemo_sm" class="testdemoSM" />
+	<tagstring>print</tagstring>
+	<author>liu</author>
+	<date>Wed Apr 23 2025</date>
+	<description>
+		test demo print state
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+	<params>
+
+		<param type="numeric" name="wait_time" default="2" label="wait_time" hint="Sets the wait_time">
+			<min value="1" />
+			<max value="4" />
+		</param>
+
+	</params>
+
+
+</behavior>

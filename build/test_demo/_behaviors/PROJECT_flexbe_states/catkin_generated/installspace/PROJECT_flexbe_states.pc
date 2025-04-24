@@ -1,0 +1,8 @@
+prefix=/home/linuxlqh/fb_test_2/install
+
+Name: PROJECT_flexbe_states
+Description: Description of PROJECT_flexbe_states
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lPROJECT_flexbe_states
+Requires: 

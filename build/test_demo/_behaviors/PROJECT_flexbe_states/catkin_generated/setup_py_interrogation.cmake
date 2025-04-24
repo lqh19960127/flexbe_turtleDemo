@@ -1,0 +1,7 @@
+set(PROJECT_flexbe_states_SETUP_PY_SETUP_MODULE "distutils.core")
+set(PROJECT_flexbe_states_SETUP_PY_VERSION "1.0.0")
+set(PROJECT_flexbe_states_SETUP_PY_SCRIPTS "")
+set(PROJECT_flexbe_states_SETUP_PY_PACKAGES "PROJECT_flexbe_states")
+set(PROJECT_flexbe_states_SETUP_PY_PACKAGE_DIRS "src/PROJECT_flexbe_states")
+set(PROJECT_flexbe_states_SETUP_PY_MODULES "")
+set(PROJECT_flexbe_states_SETUP_PY_MODULE_DIRS "")

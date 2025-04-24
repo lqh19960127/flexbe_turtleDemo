@@ -1,0 +1,8 @@
+prefix=/home/linuxlqh/fb_test_2/install
+
+Name: demo2_test_flexbe_behaviors
+Description: Description of demo2_test_flexbe_behaviors
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib -ldemo2_test_flexbe_behaviors
+Requires: 
